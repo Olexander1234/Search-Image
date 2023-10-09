@@ -15,3 +15,12 @@
     max-width: calc(100vw - 48px);
     max-height: calc(100vh - 24px);
   }
+.svg{
+  margin-left: 980px;
+}
+  .ImageGalleryItem-image2{
+
+   width: 1000px;
+   height: 700px;
+   
+  }
